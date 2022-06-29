@@ -28,4 +28,4 @@ Fill and submit the form
     Input Text    salesresult    123
     Select From List By Value    salestarget    10000
     Click Button    Submit
-    Sleep    1s
+    Sleep    2s
